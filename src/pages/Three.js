@@ -5,3 +5,5 @@ export const Three = () => {
     <h2>Three</h2>
   )
 };
+
+export default Three;
